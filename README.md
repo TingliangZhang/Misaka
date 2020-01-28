@@ -23,6 +23,31 @@
 
 
 
+## 资源和教程
+
+### TeX 排版系统
+
+下载（tuna镜像源，清华校内/国内更快）：
+
+- [TeX Live 2019 (Windows & Linux)](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/texlive2019-20190410.iso)
+- [MacTeX 20190508 (macOS)](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/mac/mactex/mactex-20190508.pkg)
+
+教程：
+
+[TingliangZhang](https://github.com/TingliangZhang)/**[LatexTalk](https://github.com/TingliangZhang/LatexTalk)**
+
+### KiCad
+
+下载（tuna镜像源，清华校内/国内更快）：
+
+- [5.1.5_3 (Windows, x86_64)](https://mirrors.tuna.tsinghua.edu.cn/kicad/windows/stable/kicad-5.1.5_3-x86_64.exe)
+- [5.1.5_3 (Windows, i686)](https://mirrors.tuna.tsinghua.edu.cn/kicad/windows/stable/kicad-5.1.5_3-i686.exe)
+- [5.1.5-0-10_14 (macOS, x86_64)](https://mirrors.tuna.tsinghua.edu.cn/kicad/osx/stable/kicad-unified-5.1.5-0-10_14.dmg)
+
+教程：
+
+[Getting Started in KiCad](https://docs.kicad-pcb.org/5.1.5/en/getting_started_in_kicad/getting_started_in_kicad.html)
+
 ## 相关文献笔记
 
 ### E-puck
