@@ -17,9 +17,9 @@
 
 [Graduation-Project-Weekly-Note](https://github.com/TingliangZhang/Graduation-Project-Weekly-Note) 之前一段时间的研究日志，主要研究各类技术的适用性
 
-[SwarmCode](https://git.tsinghua.edu.cn/SwarmRobot/SwarmCode) 2019年暑假做的集群小车的源代码（清华git，需要清华校园网账号登陆）
+[SwarmCode](https://git.tsinghua.edu.cn/SwarmRobot/SwarmCode) 2019年暑假做的集群小车的源代码（清华git，需要清华校园网账号登陆，**切勿传至公网**）
 
-[SwarmRobot / SwarmPCB](https://git.tsinghua.edu.cn/SwarmRobot/SwarmPCB) Swarm Robot PCB Files 小车主控板的PCB设计
+[SwarmRobot / SwarmPCB](https://git.tsinghua.edu.cn/SwarmRobot/SwarmPCB) Swarm Robot PCB Files 小车主控板的PCB设计（清华git，需要清华校园网账号登陆，**切勿传至公网**）
 
 
 
