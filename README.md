@@ -52,3 +52,14 @@
 
 ### E-puck
 
+
+
+
+
+## 知识储备
+
+麦克纳姆轮平移原理
+
+https://www.bilibili.com/video/av17229132/
+
+https://zhuanlan.zhihu.com/p/20282234
