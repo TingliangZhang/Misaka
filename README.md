@@ -50,11 +50,13 @@
 
 ## 相关文献笔记
 
-### E-puck
+Zooids 
 
+https://github.com/ShapeLab/SwarmUI
 
+[Zooids: Building Blocks for Swarm User Interfaces](https://www.youtube.com/watch?v=fkg5pQBBAi0)
 
-
+[Zooids: Building Blocks for Swarm User Interfaces](https://www.youtube.com/watch?v=ZVdAfDMP3m0)
 
 ## 知识储备
 
