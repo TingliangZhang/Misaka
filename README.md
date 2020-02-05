@@ -48,6 +48,14 @@
 
 [Getting Started in KiCad](https://docs.kicad-pcb.org/5.1.5/en/getting_started_in_kicad/getting_started_in_kicad.html)
 
+### ESP32
+
+https://www.espressif.com/zh-hans/esp-wroom-32/resources
+
+参考开发板设计
+
+https://www.espressif.com/zh-hans/products/hardware/development-boards
+
 ## 相关文献笔记
 
 Zooids 
