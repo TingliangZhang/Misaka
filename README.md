@@ -65,3 +65,9 @@ https://github.com/ShapeLab/SwarmUI
 https://www.bilibili.com/video/av17229132/
 
 https://zhuanlan.zhihu.com/p/20282234
+
+
+
+ARDUINO相关
+
+ARDUINO IDE中定义的引脚是外部引脚编号，需要通过PIN Map找到对应的内部引脚。
