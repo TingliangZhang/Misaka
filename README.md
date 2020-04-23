@@ -1,9 +1,21 @@
 # Misaka
-机器人软硬件笔记
+Misaka集群小车软硬件笔记
 
 ## 相关Repo
 
 [Misaka](https://github.com/TingliangZhang/Misaka) 机器人软硬件笔记
+
+[Misaka-Code](https://github.com/TingliangZhang/Misaka-Code) Arduino等源码
+
+[Misaka-PCB](https://github.com/TingliangZhang/Misaka-PCB) V1 PCB Altium Designer 20版本
+
+[Misaka-PCB-v2](https://github.com/TingliangZhang/Misaka-PCB-v2) V2 PCB KiCAD
+
+[Misaka-PCB-v3](https://github.com/TingliangZhang/Misaka-PCB-v3) PCB V3  KiCAD
+
+[Misaka-3D-print](https://github.com/TingliangZhang/Misaka-3D-print) 3D打印底盘文件
+
+[Misaka-Jupyter](https://github.com/TingliangZhang/Misaka-Jupyter) Jupyter Lab UI
 
 [Misaka-ref](https://github.com/TingliangZhang/Misaka-ref) 相关论文资源
 
@@ -13,7 +25,9 @@
 
 [Misaka-Network-Cowork](https://github.com/TingliangZhang/Misaka-Network-Cowork) Jupyter合作空间 Python可视化算法展示
 
-[BachelorThesis](https://github.com/TingliangZhang/BachelorThesis) 论文协作
+[BachelorThesis](https://github.com/TingliangZhang/BachelorThesis) 长论文协作
+
+[Misaka-Conference](https://github.com/TingliangZhang/Misaka-Conference) 会议论文
 
 [Graduation-Project-Weekly-Note](https://github.com/TingliangZhang/Graduation-Project-Weekly-Note) 之前一段时间的研究日志，主要研究各类技术的适用性
 
