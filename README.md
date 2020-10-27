@@ -35,7 +35,9 @@ Misaka集群小车软硬件笔记
 
 [SwarmRobot / SwarmPCB](https://git.tsinghua.edu.cn/SwarmRobot/SwarmPCB) Swarm Robot PCB Files 小车主控板的PCB设计（清华git，需要清华校园网账号登陆，**切勿传至公网**）
 
+[Misaka-long](https://github.com/TingliangZhang/Misaka-long) 超长版本的论文
 
+[Misaka-HRI2021](https://github.com/TingliangZhang/Misaka-HRI2021) HRI2021论文
 
 ## 资源和教程
 
