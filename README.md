@@ -39,6 +39,8 @@ Misaka集群小车软硬件笔记
 
 [Misaka-HRI2021](https://github.com/TingliangZhang/Misaka-HRI2021) HRI2021论文
 
+[Patents](https://github.com/TingliangZhang/Patents) 专利申请
+
 ## 资源和教程
 
 ### TeX 排版系统
